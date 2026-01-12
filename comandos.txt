@@ -1,0 +1,8 @@
+1. Cuando iniciamos un proyecto nuevo ejecutamos:
+git init
+2. Agregar cambios al area de preparacion
+git add .
+3. confirmar los archivos hechos y los cambios
+git status
+4. versionar el proyecto local
+git commit -m "mensaje descriptivo"
