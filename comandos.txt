@@ -6,3 +6,9 @@ git add .
 git status
 4. versionar el proyecto local
 git commit -m "mensaje descriptivo"
+5.crear nuevo repositorio en github y seguir intrucciones de comando
+6.verificar si quedo bien enlazado:
+git remote -v
+7.subir los cambios locales al repositorio remoto (en la nube)
+git push -u origin main
+
